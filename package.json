@@ -1,0 +1,27 @@
+{
+  "name": "spotify_terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryan55254/SPOTIFY_TERMINAL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryan55254/SPOTIFY_TERMINAL/issues"
+  },
+  "homepage": "https://github.com/aryan55254/SPOTIFY_TERMINAL#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "open": "^9.0.0",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
