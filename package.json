@@ -1,6 +1,7 @@
 {
   "name": "spotify_terminal",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +19,9 @@
   },
   "homepage": "https://github.com/aryan55254/SPOTIFY_TERMINAL#readme",
   "dependencies": {
+    "axios": "^1.8.4",
     "blessed": "^0.1.81",
+    "chalk": "^4.1.2",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "open": "^9.0.0",
