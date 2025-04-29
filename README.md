@@ -70,7 +70,7 @@ Create a `.env` file in the root directory and populate it with your Spotify cre
 ### Step 4: Run the Application
 Start the application by running:
 ```bash
-node index.js
+node app.js
 ```
 
 ### Step 5: Authenticate
