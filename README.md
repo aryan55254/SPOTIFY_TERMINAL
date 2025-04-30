@@ -53,8 +53,8 @@ Before running the application, ensure you have the following installed:
 ### Step 1: Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-repo/spotify-terminal-controller.git
-cd spotify-terminal-controller
+git clone https://github.com/aryan55254/SPOTIFY_TERMINAL.git
+
 ```
 
 ### Step 2: Install Dependencies
